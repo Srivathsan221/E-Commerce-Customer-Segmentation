@@ -14,9 +14,13 @@ The project aims to analyze the existing customer data and gather valuable insig
 ## PROBLEM STATEMENT:
 
 -> Given the e-commerce data (Cust_ID, Gender, Orders), use k-means clustering algorithm to cluster customers with similar interest.
+
 -> Variable Description:
+       
        Cust_ID - Unique numbering for customers
+       
        Gender - Gender of the customer
+       
        Orders - Number of orders placed by each customer in the past
 
 ## SCOPE:
